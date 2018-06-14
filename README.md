@@ -1,7 +1,7 @@
 # Portfolio - Instagram
  It's simple instagram based portfolio.
  
-### Tools of the Trade
+### Tools
  - Sass
  - Twitter Bootstrap (Sass version)
  - Instafeed.js
